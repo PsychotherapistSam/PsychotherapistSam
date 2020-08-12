@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h2 align="center"> Hi there 👋, I'm Sam</h2>
+<h3 align="center">A Java Developer & Security Researcher.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PsychotherapistSam" alt="PsychotherapistSam" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PsychotherapistSam&show_icons=true" alt="imsanjaysoni" /> </p>
 <!--
 **PsychotherapistSam/PsychotherapistSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
